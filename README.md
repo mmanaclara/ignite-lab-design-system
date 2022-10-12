@@ -29,12 +29,6 @@ Essa aplicação foi desenvolvida com as seguintes tecnologias:
 - [Storybook](https://storybook.js.org/)
 - [Figma](https://www.figma.com/)
 
-## 📖 Conhecimento
-Com esse projeto, utilizei:
-- `tailwind css` para estilização e criação de temas;
-- `radix ui` para tornar o modal acessível;
-- `storybook` para tornar o modal acessível;
-
 ## Utilização do projeto
 
 ### 💾 Baixar o projeto
@@ -47,7 +41,6 @@ Faça o clone do repositório para ter uma versão do projeto em sua máquina:<b
 ### 🚀 Iniciar o projeto
 `$ npm run dev ou yarn dev`
 <br />
-Agora você pode acessar [`http://127.0.0.1:5173`](http://http://127.0.0.1:5173/) do seu navegador.
 
 ## 📝 Licença
 Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/ignite-lab-design-system/blob/main/LICENSE). 
